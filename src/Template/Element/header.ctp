@@ -13,13 +13,14 @@
                 <span class="icon-bar"></span>
               </button>
               <!-- LOGO -->       
+              <a class="navbar-brand" href="/webapp"><i class="fa fa-heartbeat"></i>Health <span>Links</span></a>              
               <!-- IMG BASED LOGO  -->
-              <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>                    
+              <!--  <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>   -->                 
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul id="top-menu" class="nav navbar-nav main-nav nav_main">
                 <li class="active"><a href="/">Home</a></li>
-                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="/aboutus">About Us</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="fa fa-angle-down"></span></a>
                   <ul class="dropdown-menu" role="menu">

@@ -69,14 +69,7 @@
         <!-- Start First slide -->
         <div class="top-slide-inner">
           <div class="slider-img">
-            <img src="images/14.jpg" alt="">
-          </div>
-          <div class="slider-text">
-            <h2>An <strong>Excellent Theme</strong> for your Health Related Project</h2>
-            <p><strong>WpF Medinova</strong> Theme suitable for any health and medical related projets or business</p>
-            <div class="readmore_area">
-              <a data-hover="Read More" href="#"><span>Read More</span></a>                
-            </div>
+            <img src="images/healthcare1.jpg" alt="">
           </div>
         </div>
         <!-- End First slide -->
@@ -84,14 +77,7 @@
         <!-- Start 2nd slide -->
         <div class="top-slide-inner">
           <div class="slider-img">
-            <img src="images/15.jpg" alt="">
-          </div>
-          <div class="slider-text">
-            <h2><strong>Best Template</strong> For your Medical Website</h2>
-            <p><strong>WpF Medinova</strong> Theme suitable for any health and medical related projets or business</p>
-            <div class="readmore_area">
-              <a data-hover="Read More" href="#"><span>Read More</span></a>                
-            </div>
+            <img src="images/healthcare2.jpg" alt="">
           </div>
         </div>
         <!-- End 2nd slide -->
@@ -99,14 +85,7 @@
         <!-- Start Third slide -->
         <div class="top-slide-inner">
           <div class="slider-img">
-            <img src="images/7.jpg" alt="">
-          </div>
-          <div class="slider-text">
-            <h2>An <strong>Excellent Theme</strong> for your Health Related Project</h2>
-            <p><strong>WpF Medinova</strong> Theme suitable for any health and medical related projets or business</p>
-            <div class="readmore_area">
-              <a data-hover="Read More" href="#"><span>Read More</span></a>                
-            </div>
+            <img src="images/healthcare3.jpg" alt="">
           </div>
         </div>
         <!-- End Third slide -->
@@ -114,14 +93,7 @@
         <!-- Start Fourth slide -->
         <div class="top-slide-inner">
           <div class="slider-img">
-            <img src="images/12.jpg" alt="">
-          </div>
-          <div class="slider-text">
-            <h2><strong>Best Template</strong> For your Medical Website</h2>
-            <p><strong>WpF Medinova</strong> Theme suitable for any health and medical related projets or business</p>
-            <div class="readmore_area">
-              <a data-hover="Read More" href="#"><span>Read More</span></a>                
-            </div>
+            <img src="images/healthcare4.jpg" alt="">
           </div>
         </div>
         <!-- End Fourth slide -->
@@ -129,14 +101,7 @@
         <!-- Start Fifth slide -->
         <div class="top-slide-inner">
           <div class="slider-img">
-            <img src="images/9.jpg" alt="">
-          </div>
-          <div class="slider-text">
-            <h2>An <strong>Excellent Theme</strong> for your Health Related Project</h2>
-            <p><strong>WpF Medinova</strong> Theme suitable for any health and medical related projets or business</p>
-            <div class="readmore_area">
-              <a data-hover="Read More" href="#"><span>Read More</span></a>                
-            </div>
+            <img src="images/healthcare5.jpg" alt="">
           </div>
         </div>
         <!-- End Fifth slide -->
