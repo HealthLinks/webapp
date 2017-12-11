@@ -42,4 +42,9 @@ class HomeController extends AppController
     {
 		$this->viewBuilder()->setLayout('home');
     }
+	
+	public function aboutus()
+    {
+		$this->viewBuilder()->setLayout('home');
+    }
 }
