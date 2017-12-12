@@ -20,7 +20,7 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul id="top-menu" class="nav navbar-nav main-nav nav_main">
                 <li class="active"><a href="/">Home</a></li>
-                <li><a href="/aboutus">About Us</a></li>
+                <li><a href="aboutus">About Us</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="fa fa-angle-down"></span></a>
                   <ul class="dropdown-menu" role="menu">
@@ -29,7 +29,7 @@
                     <li><a href="blood-bank.html">Blood Bank</a></li>
                   </ul>
                 </li>             
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contactus">Contact</a></li>
               </ul>
 			  <div class="signin">           
                 <p><a href="#" class="myButton">Sign In</a>
