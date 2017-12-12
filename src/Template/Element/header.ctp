@@ -32,8 +32,8 @@
                 <li><a href="contactus">Contact</a></li>
               </ul>
 			  <div class="signin">           
-                <p><a href="#" class="myButton">Sign In</a>
-				<a href="#" class="myButton">Sign up</a></p>
+                <p><a href="#" class="myButton" id="signin">Sign In</a>
+				<a href="#" class="myButton" id="signup">Sign up</a></p>
               </div> 
             </div><!--/.nav-collapse -->
           </div>     
