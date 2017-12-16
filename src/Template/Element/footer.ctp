@@ -115,3 +115,4 @@
 
     <!-- Custom JS -->
     <script src="js/custom.js"></script>
+	<script src="js/model.js"></script>

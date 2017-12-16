@@ -33,7 +33,7 @@
               </ul>
 			  <div class="signin">           
                 <p><a href="#" class="myButton" id="signin">Sign In</a>
-				<a href="#" class="myButton" id="signup">Sign up</a></p>
+				<a href="#" class="myButton" id="signin">Sign In</a></p>
               </div> 
             </div><!--/.nav-collapse -->
           </div>     
