@@ -231,7 +231,7 @@ return [
             //'port' => 'non_standard_port_number',
             'username' => 'root',
             'password' => '',
-            'database' => 'healthlinks',
+            'database' => 'cake',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'flags' => [],
