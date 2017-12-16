@@ -55,11 +55,12 @@ Router::scope('/', function (RouteBuilder $routes) {
      * ...and connect the rest of 'Pages' controller's URLs.
      */
     $routes->connect('/', ['controller' => 'Home', 'action' => 'index']);
+
 	$routes->connect('/aboutus', ['controller' => 'Home', 'action' => 'aboutus']);	
 	$routes->connect('/contactus', ['controller' => 'Home', 'action' => 'contactus']);
 	
 	//admin section
-	$routes->connect('/admin/*', ['controller' => 'Admin', 'action' => 'dashboard']);
+	//$routes->connect('/admin/*', ['controller' => 'Admin', 'action' => 'dashboard']);
 
     /**
      * Connect catchall routes for all controllers.
@@ -78,6 +79,14 @@ Router::scope('/', function (RouteBuilder $routes) {
      * routes you want in your application.
      */
     $routes->fallbacks(DashedRoute::class);
+});
+
+Router::prefix('admin', function($routes) {
+    // Because you are in the admin scope,
+    // you do not need to include the /admin prefix
+    // or the admin route element.
+  $routes->connect('/', ['controller' => 'Admin', 'action' => 'index', 'admin' => false]);
+  $routes->fallbacks('InflectedRoute');
 });
 
 /**
