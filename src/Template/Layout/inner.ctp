@@ -62,51 +62,7 @@
 
     <?php echo $this->element('header'); ?>
 
-    <!--=========== BEGIN SLIDER SECTION ================-->
-    <section id="sliderArea">
-      <!-- Start slider wrapper -->      
-      <div class="top-slider">
-        <!-- Start First slide -->
-        <div class="top-slide-inner">
-          <div class="slider-img">
-            <img src="images/healthcare1.jpg" alt="">
-          </div>
-        </div>
-        <!-- End First slide -->
-
-        <!-- Start 2nd slide -->
-        <div class="top-slide-inner">
-          <div class="slider-img">
-            <img src="images/healthcare2.jpg" alt="">
-          </div>
-        </div>
-        <!-- End 2nd slide -->
-
-        <!-- Start Third slide -->
-        <div class="top-slide-inner">
-          <div class="slider-img">
-            <img src="images/healthcare3.jpg" alt="">
-          </div>
-        </div>
-        <!-- End Third slide -->
-
-        <!-- Start Fourth slide -->
-        <div class="top-slide-inner">
-          <div class="slider-img">
-            <img src="images/healthcare4.jpg" alt="">
-          </div>
-        </div>
-        <!-- End Fourth slide -->
-
-        <!-- Start Fifth slide -->
-        <div class="top-slide-inner">
-          <div class="slider-img">
-            <img src="images/healthcare5.jpg" alt="">
-          </div>
-        </div>
-        <!-- End Fifth slide -->
-      </div><!-- /top-slider -->
-    </section>
+    
 	<?= $this->Flash->render() ?>
     <div class="container clearfix">
     <?= $this->fetch('content') ?>

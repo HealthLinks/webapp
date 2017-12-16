@@ -87,7 +87,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <p>Design & Developed By <a rel="nofollow" href="http://www.wpfreeware.com/">WpF Freeware</a></p>
+              <p>Design & Developed By <a rel="nofollow" href="">HealthLinks Technology @2018</a></p>
             </div>
           </div>
         </div>
@@ -115,3 +115,4 @@
 
     <!-- Custom JS -->
     <script src="js/custom.js"></script>
+	<script src="js/model.js"></script>
